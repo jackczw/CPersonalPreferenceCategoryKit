@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'CPersonalPreferenceCategoryKit_Example' do
+  pod 'CPersonalPreferenceCategoryKit', :path => '../'
+
+  target 'CPersonalPreferenceCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
