@@ -1,0 +1,6 @@
+framework module Pods_CPersonalPreferenceCategoryKit_Tests {
+  umbrella header "Pods-CPersonalPreferenceCategoryKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

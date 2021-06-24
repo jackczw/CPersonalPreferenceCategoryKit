@@ -1,0 +1,6 @@
+framework module CPersonalPreferenceCategoryKit {
+  umbrella header "CPersonalPreferenceCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,23 @@
+PODS:
+  - CPersonalPreferenceCategoryKit (1):
+    - CTMediator
+  - CTMediator (46)
+
+DEPENDENCIES:
+  - CPersonalPreferenceCategoryKit (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - CTMediator
+
+EXTERNAL SOURCES:
+  CPersonalPreferenceCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CPersonalPreferenceCategoryKit: 32fbb91bbd2e41f865afc06699ded14e6976c5e9
+  CTMediator: f1cf58d509fb3192086c367711f039efd769b907
+
+PODFILE CHECKSUM: b06ab54739002ba60fa8e34c960671598b0f3dbf
+
+COCOAPODS: 1.10.0

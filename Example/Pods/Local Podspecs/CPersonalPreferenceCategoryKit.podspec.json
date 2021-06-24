@@ -1,0 +1,27 @@
+{
+  "name": "CPersonalPreferenceCategoryKit",
+  "version": "1",
+  "summary": "这是个人设置组件的Metiator组件库",
+  "description": "TODO: 这是个人设置组件的Metiator组件库这是个人设置组件的Metiator组件库这是个人设置组件的Metiator组件库这是个人设置组件的Metiator组件库这是个人设置组件的Metiator组件库这是个人设置组件的Metiator组件库.",
+  "homepage": "https://github.com/jackczw/CPersonalPreferenceCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jackczw": "1565201275@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/jackczw/CPersonalPreferenceCategoryKit.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CPersonalPreferenceCategoryKit/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  }
+}
